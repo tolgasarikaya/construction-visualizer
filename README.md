@@ -177,7 +177,7 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## 👨‍💻 Geliştirici
 
-(tolga.sarikaya.dev@gmail.com)
+Email: (tolga.sarikaya.dev@gmail.com)
 
 ---
 
