@@ -1,7 +1,6 @@
 # İnşaat Projesi Görselleştirme Uygulaması
 
 <div align="center">
-  <img src="https://via.placeholder.com/120x120?text=🏢" alt="Construction Visualizer Logo" width="120" />
   <h2>İnşaat Projesi Görselleştirici</h2>
   <p>Bina ve daire yerleşimlerini kolayca yönetip görselleştirin</p>
   
