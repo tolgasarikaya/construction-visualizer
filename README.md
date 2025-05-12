@@ -4,14 +4,6 @@
   <h2>İnşaat Projesi Görselleştirici</h2>
   <p>Bina ve daire yerleşimlerini kolayca yönetip görselleştirin</p>
   <a href="https://construction-visualizer.vercel.app/">Live Demo</a>
-  
-  <p>
-    <a href="#özellikler">Özellikler</a> •
-    <a href="#kurulum">Kurulum</a> •
-    <a href="#kullanım">Kullanım</a> •
-    <a href="#docker">Docker</a> •
-    <a href="#geliştirme">Geliştirme</a>
-  </p>
 </div>
 
 ## 📋 Proje Özeti
