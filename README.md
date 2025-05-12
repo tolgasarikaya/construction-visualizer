@@ -155,17 +155,6 @@ construction-visualizer/
 └── README.md             # Dokümantasyon
 ```
 
-### Katkıda Bulunma
-
-1. Bu repo'yu fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
-4. Branch'inize push edin (`git push origin feature/amazing-feature`)
-5. Pull Request açın
-
-## 📄 Lisans
-
-Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## 👨‍💻 Geliştirici
 
