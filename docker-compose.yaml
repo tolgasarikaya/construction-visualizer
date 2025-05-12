@@ -1,0 +1,17 @@
+# docker-compose.yaml (Health Check Kaldırılmış)
+services:
+  app:
+    container_name: construction-visualizer
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+
+networks:
+  default:
+    name: construction-visualizer-network
+    driver: bridge
